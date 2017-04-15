@@ -1,0 +1,23 @@
+body {
+  font-size: 70pt;
+}
+
+body div {
+  font-size: 50pt;
+}
+
+.principal {
+  font-family: Arial;
+}
+
+#topico1 {
+  font-weight: bold;
+}
+h1{
+  font-style: italic;
+  font-size: 60;
+  text-align: center;
+}
+.paragrafo2{
+  color: red;
+}

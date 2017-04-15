@@ -1,0 +1,22 @@
+ h1 {
+           font-family: Arial;
+           font-size: 70pt;
+           text-align:center;
+           font-style: italic;
+      }
+
+      img {
+             float:left;
+              margin:20 10px 20px 20;
+              
+      }
+
+      p {
+           font-family: Arial;
+           font-size: 20pt;
+           text-align:center,justify;
+           margin-left: 10cm;
+           margin-top: 2cm;
+           color: blue;
+           
+      }
